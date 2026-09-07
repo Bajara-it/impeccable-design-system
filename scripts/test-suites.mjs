@@ -73,6 +73,7 @@ export const SUITES = {
           'tests/github-sheriff.test.mjs',
           'tests/hook-build.test.mjs',
           'tests/openai-plugin.test.mjs',
+          'tests/cursor-plugin.test.mjs',
           'tests/vscode-extension.test.mjs',
           'tests/process-group.test.mjs',
           'tests/release.test.mjs',
